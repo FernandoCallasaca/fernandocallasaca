@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**FernandoCallasaca/fernandocallasaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Fernando Callasaca, a software engineer 💻 currently working at [Regional Government of Cusco](https://www.regioncusco.gob.pe/).
 
-Here are some ideas to get you started:
+Im training to be a Data Scientist 📊, I like make predictions finding out patterns in large datasets. 🌌
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With knowledge in programming languages such as Python, R, JavaScript and relational and non-relational databases like SQL, CouchDB, MySQL, etc.
+
+I am training 👔 in the use and analysis of data using Machine Learning and Business Intelligence Tools. 📉
+
+I have skills in analysis, self-education, responsibility and commitment with work. 💪 😀
+
+My current side project is [Data Science Projects](https://github.com/FernandoCallasaca/data_science_projects) 🌟
+
+[LinkedIn 💼](https://www.linkedin.com/in/fernandocallasaca)
+
+[Twitter 🐦](https://twitter.com/fcallasaca)
+
+[Website 🌍](https://fernandocallasaca.github.io/)
+
+[Email 📬](mailto:fernandocallasaca@outlook.com)
