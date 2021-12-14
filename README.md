@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Fernando Callasaca, a software engineer 💻 currently working at [Regional Government of Cusco](https://www.regioncusco.gob.pe/).
+I'm Fernando Callasaca, a software engineer 💻.
 
 Im training to be a Data Scientist 📊, I like make predictions finding out patterns in large datasets. 🌌
 
