@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Fernando Callasaca, a software engineer 💻.
+I'm Fernando Callasaca, I'm Data Scientist Jr 📊.
 
-Im training to be a Data Scientist 📊, I like make predictions finding out patterns in large datasets. 🌌
+I like make predictions finding out patterns in large datasets. 🌌
 
 With knowledge in programming languages such as Python, R, JavaScript and relational and non-relational databases like SQL, CouchDB, MySQL, etc.
 
