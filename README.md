@@ -10,12 +10,12 @@ I am training 👔 in the use and analysis of data using Machine Learning and Bu
 
 I have skills in analysis, self-education, responsibility and commitment with work. 💪 😀
 
-My current side project is [Data Science Projects](https://github.com/FernandoCallasaca/data_science_projects) 🌟
+My current side project is [Car Price Prediction](https://github.com/FernandoCallasaca/car_price_prediction_python_ml) 🌟
 
 [LinkedIn 💼](https://www.linkedin.com/in/fernandocallasaca)
 
 [Twitter 🐦](https://twitter.com/fcallasaca)
 
-[Website 🌍](https://fernandocallasaca.github.io/)
+[Website 🌍](https://github.com/fernandocallasaca)
 
 [Email 📬](mailto:fernandocallasaca@outlook.com)
