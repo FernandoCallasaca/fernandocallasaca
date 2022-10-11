@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Fernando Callasaca, I'm Data Scientist Jr 📊.
+I'm Fernando Callasaca, I'm Data Scientist 📊.
 
 I like make predictions finding out patterns in large datasets. 🌌
 
