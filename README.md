@@ -8,6 +8,8 @@ I keep myself in constant training 👔 in the use and analysis of data using Ma
 
 As a Data Scientist, I also possess soft skills such as critical analysis, self-training, accountability and commitment to work. My background in mathematics and statistics 📉 allows me to understand the complexities of data and apply advanced modeling techniques to make accurate predictions. Overall, my Data Science experience has enabled me to solve complex problems, make informed decisions and make a difference in the business. 💪 😀
 
+[CV 📬](https://github.com/FernandoCallasaca/fernandocallasaca_important/blob/main/CV/CV-Fernando_Callasaca.pdf)
+
 [LinkedIn 💼](https://www.linkedin.com/in/fernandocallasaca)
 
 [Twitter 🐦](https://twitter.com/fcallasaca)
